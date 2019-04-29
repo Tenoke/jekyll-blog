@@ -12,6 +12,10 @@ One of the most important pieces for training a more general ‘human-like’ Sy
 
 I propose training a model where the input is simply people interacting with their computer (just the browser for simplicity) as they normally do and the output is a prediction of the next action they will take.
 
+<sub><sup>
+For those who don't think AGI is possible - I am not saying it definitely is (especially not immediately), just proposing a task to get closer to something that is realistically doable.
+</sub></sup>
+
 ## Rationale
 
 At this point in the current Deep Learning revolution it seems like variations of [our](https://github.com/NVlabs/stylegan) [current](https://openai.com/five/) [techniques](https://github.com/openai/gpt-2) can likely solve most any *well-defined* problem if you use the right parts, have enough data and make the network big enough.
