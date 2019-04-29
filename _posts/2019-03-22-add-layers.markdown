@@ -56,7 +56,8 @@ mnist_test = mnist_test.map(convert_types).batch(32)
 
 Create our basic model
 
-```class MyModel(Model):
+```
+class MyModel(Model):
   def __init__(self):
     super(MyModel, self).__init__()
     self.conv1 = Conv2D(32, 3, activation='relu')
@@ -135,6 +136,7 @@ for epoch in range(EPOCHS):
 ```
 
 >Epoch 1, Loss: 0.20242027938365936, Accuracy: 94.05333709716797, Test Loss: 0.08358743041753769, Test Accuracy: 97.37999725341797
+
 >Epoch 2, Loss: 0.13752736151218414, Accuracy: 95.9375, Test Loss: 0.07251566648483276, Test Accuracy: 97.65999603271484
 
 
@@ -220,6 +222,7 @@ for epoch in range(EPOCHS):
 Which gets me to
 
 >Epoch 1, Loss: 0.11430724710226059, Accuracy: 96.58721923828125, Test Loss: 0.05486641451716423, Test Accuracy: 98.18999481201172
+
 >Epoch 2, Loss: 0.09389258921146393, Accuracy: 97.19083404541016, Test Loss: 0.05310175567865372, Test Accuracy: 98.31999969482422
 
 Not much better, but the results will usually be more impressive when dealing with more complex problems.
@@ -244,7 +247,7 @@ The way we do that is by using the gradients of only our new layer.
 model.trainable_variables works by returning a list of all weights and biases of our model layer by layer - so the first item is the weights of layer 1,  2nd item is the bias of layer 1 etc. Thus we only need the 2 layers before the last 2.
 
 
-##Fully convolutional
+## Fully convolutional
 
 What if we are working with e.g. a fully convolutional network - an identity matrix won't work (and tensorflow doesn't even allow us to use the identity initializer for that reason) - how do you add a new layer while keeping the network usable?
 
