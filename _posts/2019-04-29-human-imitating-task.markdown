@@ -12,9 +12,12 @@ One of the most important pieces for training a more general ‘human-like’ Sy
 
 I propose training a model where the input is simply people interacting with their computer (just the browser for simplicity) as they normally do and the output is a prediction of the next action they will take.
 
-<sub><sup>
+<sub>
+<sup>
 For those who don't think AGI is possible - I am not saying it definitely is (especially not immediately), just proposing a task to get closer to something that is realistically doable.
-</sub></sup>
+</sup>
+</sub>
+
 
 ## Rationale
 
@@ -53,6 +56,8 @@ Also how much better (or if not better, how come) would for example the text-rel
 Additionally, I am well aware that there are many obvious and non-obvious problems that would need to be solved in the process. Creating the data and sanitizing user’s credentials, other privacy considerations. Enormous training time and designing the right Network(s) etc. Is any of it infeasible for a sufficiently large organization, however? I think no - this can very well be attempted today.
 
 <br>
-<sub><sup>
+<sub>
+<sup>
 I would be very interested to hear about arguments why this would or wouldn’t work, potential improvements or alternatives (e.g. having a RL and/or GAN-like approach with a similar task which is also doable), or if there is anyone working on something similar to this. Feel free to contact me about this or any related or unrelated offers for work or collaboration.
-<sub><sup>
+</sup>
+</sub>
