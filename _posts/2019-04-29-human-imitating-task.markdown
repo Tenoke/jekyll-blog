@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Proposed Task for Training a Human-Imitating System as a Benchmark and Potential Part of The Road to AGI "
+title:  "A Proposed Task for Training a Human-Imitating System as a Benchmark and Potential Part of The Road to AGI"
 permalink: blog/human-imitating-task/
 
 ---
