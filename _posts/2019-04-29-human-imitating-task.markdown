@@ -6,7 +6,7 @@ permalink: blog/human-imitating-task/
 ---
 
 
-## Basic idea:
+## Basic idea
 
 One of the most important pieces for training a more general ‘human-like’ System (Neural Network) is having a good open-ended task which is either unsupervised or where generating very large amounts of data is doable.
 
