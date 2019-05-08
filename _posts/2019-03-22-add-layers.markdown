@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding Layers to the middle of a pre-trained network whithout invalidating the weights"
-subtitle: "Using Tensorflow 2.0 and Google Collab"
+subtitle: "Using Tensorflow 2.0 and Google Colab"
 permalink: blog/add-layers/
 
 ---
@@ -16,12 +16,12 @@ These posts (along with the last) are my first two in a series where I will atte
 
 Note: The basic network example is mostly taken from the [Tensorflow 2.0 Getting started article](https://www.tensorflow.org/alpha/tutorials/quickstart/advanced). I used this as an opportunity to play a little with the new API.
 
-You can follow in the collab [here](https://colab.research.google.com/drive/1KocZA0Zgo68eMKWXg-W3W6Ev0F6n88cX).
+You can follow in the colab [here](https://colab.research.google.com/drive/1KocZA0Zgo68eMKWXg-W3W6Ev0F6n88cX).
 
 
 ## Code
 
-First, we install tensorflow 2.0 to Collab (this step can be skipped after 2.0 is out and the default in Collab)
+First, we install tensorflow 2.0 to Colab (this step can be skipped after 2.0 is out and the default in Colab)
 
 `pip install tensorflow-gpu==2.0.0-alpha0
 `
