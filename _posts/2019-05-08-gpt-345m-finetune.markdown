@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Fine-tunning OpenAI's GPT-2-345M on Conversation data (Update)"
+title:  "Fine-tunning OpenAI's (Larger) GPT-2-345M on Conversation data (Update)"
 subtitle: "Using Google Colab"
-permalink: blog/gpt-345M-finetune/
+permalink: blog/gpt345M-finetune/
 
 ---
 
