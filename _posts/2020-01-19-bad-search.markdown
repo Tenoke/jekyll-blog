@@ -12,7 +12,7 @@ Google Search is ridiculously, utterly bad. Before your brain starts recalling s
 <div style="text-align: center;"><img class="img-fluid"  src='/static/gsearch1.png'></div>
 <br>
 
-This is a query for checking out what reddit thinks in regards to buying a phone, while specifying to only get results from the last month. Pretty simple I guess, yet **none** of the results achieved, and **none** of them are actually from the last month, despite Google lying that they are. Let’s quickly go through them one by one.
+This is a query for checking out what reddit thinks in regards to buying a phone, while specifying to only get results from the last month. Pretty simple I guess, yet **none** of the results achieved that goal, and **none** of them are actually from the last month, despite Google lying that they are. Let’s quickly go through them one by one.
 
 
 1. ‘Best place to by a cheap new smartphone?’ from r/Berlin - this is about where to buy a phone, but I live in Berlin, so maybe it makes some sense as a top result… except the post is actually from **6! years ago**.
@@ -45,6 +45,7 @@ Maybe it’s my wording then - what about ‘recommend phone reddit’ or ‘whi
 
 Part of the issue in this specific case is that they’ve started ignoring settings for displaying results from specific time periods. It’s definitely not the whole issue though, and not something new or specific to phone searches.
 
-Now, I’ve always been biased towards the new - books, tech, everything, but I can’t help but feel that a lot of things which were done pretty well before are done worse today.  We do have better technology, yet we somehow build inferior solutions with it all too often.
+
+Now, I’ve always been biased towards the new - books, tech, everything, but I can’t help but feel that a lot of things which were done pretty well before are done worse today.  We do have better technology, yet we somehow build inferior solutions with it all too often. Further, if they had the same bias of showing me only recent results I'll understand it better, but that's not even the case.
 And yes, I get that the incentives of users and providers don’t align perfectly, that Google isn’t your friend, etc. But what is DDG’s excuse?
 As for the Case Study part, and me saying this isn’t simply a rant - I lied, hence the quotation marks in the title. Don’t trust everything you read, especially the goddamn dates on your search results.
