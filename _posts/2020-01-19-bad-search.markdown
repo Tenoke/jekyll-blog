@@ -47,4 +47,4 @@ Part of the issue in this specific case is that they’ve started ignoring setti
 
 Now, I’ve always been biased towards the new - books, tech, everything, but I can’t help but feel that a lot of things which were done pretty well before are done worse today.  We do have better technology, yet we somehow build inferior solutions with it all too often.
 And yes, I get that the incentives of users and providers don’t align perfectly, that Google isn’t your friend, etc. But what is DDG’s excuse?
-As for the Case Study part, and me saying this won’t isn’t simply a rant - I lied, hence the quotation marks in the title. Don’t trust everything you read, especially the goddamn dates on your search results.
+As for the Case Study part, and me saying this isn’t simply a rant - I lied, hence the quotation marks in the title. Don’t trust everything you read, especially the goddamn dates on your search results.
