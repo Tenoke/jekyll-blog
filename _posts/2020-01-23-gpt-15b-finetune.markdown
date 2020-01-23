@@ -17,7 +17,7 @@ My particular interest has been in applying it to my personal chat data, so I ca
 I won't go into detail describing the Colab with Facebook data, as it is almost the same as the one used with the 117M version which I describe [here](/blog/gpt-finetune/) and [here](/blog/gpt-345M-finetune/). We are again using [nsheppered's GPT training code](https://github.com/nshepperd/gpt-2) as a base with [shawwwn's fork](https://github.com/shawwn/gpt-2) allowing us to train the whole of gpt-1.5b on a TPU - which means we can do so for free on Colab again! I've only added a little bit more so we can talk interactively with gpt2, have it respond to us as a specific person and go through the whole general back and forth which we typically call 'having a conversation'.
 
 
-You can train your own in the new GPT2-1.5b collab FB data [here](https://colab.research.google.com/drive/1rRpMGVfUb5sG263d1OOPXOyGRX4W1oEv). Make sure to click Runtime> Change Runtime type> TPU
+You can train your own in the new GPT2-1.5b collab [here](https://colab.research.google.com/drive/1rRpMGVfUb5sG263d1OOPXOyGRX4W1oEv). Make sure to click Runtime> Change Runtime type> TPU
 
 ###### Note: It is a lot easier to train if you pay a few bucks for [Google One](https://one.google.com/) so you can fit it all easily on Drive. A checkpoint of the model comes to ~6 gb, so if you only keep one checkpoint you can do it without paying - it is just more hassle.
 
