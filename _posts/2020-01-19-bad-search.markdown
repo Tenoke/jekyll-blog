@@ -2,7 +2,7 @@
 layout: post
 title:  "How is search so goddamn bad? A ‘Case Study’"
 permalink: blog/bad-search/
-
+tags: google duckduckgo ddg search bad case study problem
 ---
 <br>
 

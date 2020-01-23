@@ -12,7 +12,7 @@ permalink: /about/
 <br>
 <br>
 
-Mostly working on model building with PyTorch, GPyTorch, TensorFlow(.js), NumPy, scikit-learn and related technologies.
+Mostly working on model building with PyTorch, GPyTorch, TensorFlow(.js) and related technologies.
 
 Prior experience includes Web and Backend Development, Systems, DevOps, IoT, etc.
 

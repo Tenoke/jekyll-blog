@@ -3,6 +3,7 @@ layout: post
 title:  "Generating Fake Conversations by fine-tunning OpenAI's GPT-2 on data from Facebook Messenger"
 subtitle: "Using Google Colab"
 permalink: blog/gpt-finetune/
+tags: gpt gpt2 finetune colab nlp
 
 ---
 
