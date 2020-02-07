@@ -3,7 +3,7 @@ layout: post
 title:  "Talking to Myself or How I Trained GPT2-1.5b for Rubber Ducking using My Facebook Chat Data"
 subtitle: "Using only Google Colab"
 permalink: blog/gpt-15b-chat-finetune/
-tags: gpt gpt2 finetune colab neural-network chat reflection therapeutic rubber-duck nlp transformers
+tags: gpt gpt2 finetune colab neural-network chat reflection therapeutic rubber-duck nlp transformers machine-learning
 
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Building an in-browser Rock Paper Scissors Neural Network capable of beating humans"
 subtitle: "Using keras and tensorflow.js"
 permalink: blog/rps/
+tags: machine-learning
 
 ---
 

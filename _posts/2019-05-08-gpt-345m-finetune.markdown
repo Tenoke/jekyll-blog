@@ -3,7 +3,7 @@ layout: post
 title:  "Fine-tunning OpenAI's (Larger) GPT-2-345M on Conversation data (Update)"
 subtitle: "Using Google Colab"
 permalink: blog/gpt-345M-finetune/
-tags: gpt gpt2 finetune colab nlp
+tags: gpt gpt2 finetune colab nlp machine-learning
 
 ---
 

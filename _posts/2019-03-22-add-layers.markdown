@@ -3,7 +3,7 @@ layout: post
 title:  "Adding Layers to the middle of a pre-trained network whithout invalidating the weights"
 subtitle: "Using Tensorflow 2.0 and Google Colab"
 permalink: blog/add-layers/
-tags: neural network ml layer
+tags: neural network ml layer machine-learning colab
 
 ---
 
