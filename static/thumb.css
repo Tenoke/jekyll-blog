@@ -28,3 +28,7 @@ a:hover span{
 visibility: visible;
 
 }
+
+span.username {
+visibility: visible;
+}
