@@ -12,3 +12,4 @@ git add .
 git commit -m "$1"
 git push 
 cd ../jekyll-blog
+pkill -9 python3.7
