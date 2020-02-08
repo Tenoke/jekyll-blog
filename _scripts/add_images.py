@@ -3,7 +3,7 @@ from pathlib import Path
 from PIL import Image
 import re
 import hashlib
-
+import time
 exclude = ['mailto', 'feed.xml', ' class']
 
 processed_urls = []
@@ -26,6 +26,8 @@ def get_links(filename, download=True):
             if driver_link.startswith('/'):
                 driver_link = f'http://0.0.0.0:8000{url}'
             driver.get(driver_link)
+            driver.execute_script("return document.body.style.overflow = 'hidden';");
+            time.sleep(2.5)
             img_path = f'../_site/static/previews/{hashed}.png'
             driver.save_screenshot(img_path)
             Image.open(img_path).save(img_path,quality=15,optimize=True)
@@ -43,6 +45,7 @@ if __name__ == '__main__':
     options.add_argument("--test-type")
     options.binary_location = "/usr/bin/google-chrome"
     driver = webdriver.Chrome(chrome_options=options)
+
     driver.set_window_size(900, 700)
 
     preloaded = [str(f) for f in Path('../static/previews/').rglob('*.png')]
