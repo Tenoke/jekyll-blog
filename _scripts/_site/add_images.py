@@ -12,7 +12,7 @@ def get_links(filename, download=True):
     print(f'\033[1m{filename}\033[0m')
     with open(filename) as f:
         html = f.read()
-    urls = re.findall('\<a.+href="(.*?)"\>', html)
+    urls = re.findall('\<a.*?href="(.*?)"\>', html)
     for url in urls:
         if any([item in url for item in exclude]) or '/' not in url or len(url) < 2:
             print(f'skipping {url}')
@@ -32,7 +32,7 @@ def get_links(filename, download=True):
         processed_urls.append(url)
 
         new_url = f'{url}"><span><img src="/static/previews/{hashed}.png"></span>'
-        html = re.sub(pattern=f'(<a.+href=")({url}">)', repl=f'\g<1>{new_url}', string=html)
+        html = re.sub(pattern=f'(<a.*?href=")({url}">)', repl=f'\g<1>{new_url}', string=html)
         # html = html.replace(f'{url}">', new_url)
     with open(filename, 'w') as f:
         f.write(html)
