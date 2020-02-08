@@ -4,7 +4,7 @@ from PIL import Image
 import re
 import hashlib
 import time
-exclude = ['mailto', 'feed.xml', ' class']
+exclude = ['mailto', 'feed.xml', ' ', 'assets']
 
 processed_urls = []
 
@@ -12,19 +12,17 @@ def get_links(filename, download=True):
     print(f'\033[1m{filename}\033[0m')
     with open(filename) as f:
         html = f.read()
-    urls = re.findall('<a href="(.*?)">', html)
+    urls = re.findall('\<a.+href="(.*?)"\>', html)
     for url in urls:
-        if any([item in url for item in exclude]) or '/' not in url:
+        if any([item in url for item in exclude]) or '/' not in url or len(url) < 2:
             print(f'skipping {url}')
             continue
         print(url)
         hashed = hashlib.sha256(url.encode('utf-8')).hexdigest()[:16]
         if url not in processed_urls and not any([str(hashed) in item for item in preloaded]) and download:
-            print(str(hashed))
-            print(any([str(hashed) in item for item in preloaded]))
             driver_link = url
             if driver_link.startswith('/'):
-                driver_link = f'http://0.0.0.0:8000{url}'
+                driver_link = f'https://svilentodorov.xyz{url}'
             driver.get(driver_link)
             driver.execute_script("return document.body.style.overflow = 'hidden';");
             time.sleep(2.5)
@@ -34,7 +32,8 @@ def get_links(filename, download=True):
         processed_urls.append(url)
 
         new_url = f'{url}"><span><img src="/static/previews/{hashed}.png"></span>'
-        html = html.replace(f'{url}">', new_url)
+        html = re.sub(pattern=f'(<a.+href=")({url}">)', repl=f'\g<1>{new_url}', string=html)
+        # html = html.replace(f'{url}">', new_url)
     with open(filename, 'w') as f:
         f.write(html)
 
