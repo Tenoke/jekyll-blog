@@ -4,7 +4,7 @@ from PIL import Image
 import re
 import hashlib
 import time
-exclude = ['mailto', 'feed.xml', ' ', 'assets']
+exclude = ['mailto', '.xml', ' ', 'assets']
 
 processed_urls = []
 
@@ -22,8 +22,8 @@ def get_links(filename, download=True):
         if url not in processed_urls and not any([str(hashed) in item for item in preloaded]) and download:
             driver_link = url
             if driver_link.startswith('/'):
-                # driver_link = f'https://svilentodorov.xyz{url}'
-                driver_link = f'http://0.0.0.0:8000/{url}'
+                driver_link = f'https://svilentodorov.xyz{url}'
+                # driver_link = f'http://0.0.0.0:8000/{url}'
             driver.get(driver_link)
             driver.execute_script("return document.body.style.overflow = 'hidden';");
             time.sleep(2.5)
