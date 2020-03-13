@@ -19,7 +19,6 @@ def get_links(filename, download=True):
             continue
         print(url)
         hashed = hashlib.sha256(url.encode('utf-8')).hexdigest()[:16]
-        processed_urls.append(url) ## moved this
         if url not in processed_urls and not any([str(hashed) in item for item in preloaded]) and download:
             driver_link = url
             if driver_link.startswith('/'):
@@ -32,8 +31,9 @@ def get_links(filename, download=True):
             driver.save_screenshot(img_path)
             Image.open(img_path).save(img_path,quality=15,optimize=True)
 
-            new_url = f'{url}"><span><img src="/static/previews/{hashed}.png"></span>'
-            html = re.sub(pattern=f'(<a.*?href=")({url}">)', repl=f'\g<1>{new_url}', string=html)
+        processed_urls.append(url) ## moved this
+        new_url = f'{url}"><span><img src="/static/previews/{hashed}.png"></span>'
+        html = re.sub(pattern=f'(<a.*?href=")({url}">)', repl=f'\g<1>{new_url}', string=html)
         # html = html.replace(f'{url}">', new_url)
     with open(filename, 'w') as f:
         f.write(html)
