@@ -1,7 +1,7 @@
+## call from root $bash _scripts/push.sh "Commit name"
 JEKYLL_ENV=production jekyll build
-python3.7 -m http.server -d ../_site/ &
+python3.7 -m http.server -d _site/ &
 python3.7 add_images.py
-cd ..
 cp -rn _site/static/previews/* static/previews/
 git add .	
 git commit -m "$1"
