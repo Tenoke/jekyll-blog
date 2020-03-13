@@ -28,7 +28,7 @@ def get_links(filename, download=True):
             driver.get(driver_link)
             driver.execute_script("return document.body.style.overflow = 'hidden';");
             time.sleep(2.5)
-            img_path = f'../_site/static/previews/{hashed}.png'
+            img_path = f'_site/static/previews/{hashed}.png'
             driver.save_screenshot(img_path)
             Image.open(img_path).save(img_path,quality=15,optimize=True)
 
@@ -48,8 +48,8 @@ if __name__ == '__main__':
 
     driver.set_window_size(900, 700)
 
-    preloaded = [str(f) for f in Path('../static/previews/').rglob('*.png')]
+    preloaded = [str(f) for f in Path('static/previews/').rglob('*.png')]
     print(preloaded)
-    for filename in Path('../_site/').rglob('*.html'):
+    for filename in Path('_site/').rglob('*.html'):
         get_links(filename)
     driver.close()
