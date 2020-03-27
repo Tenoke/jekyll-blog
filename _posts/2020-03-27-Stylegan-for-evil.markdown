@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "StyleGAN for Evil: Trypophobia and Clockwork Oranging"
-permalink: blog/StyleGAN-for-evil/
+permalink: blog/stylegan-for-evil/
 tags: machine-learning training code StyleGAN image image-generation trypophobia clockwork orange conditioning evil gan disturbing phobia
 
 ---
