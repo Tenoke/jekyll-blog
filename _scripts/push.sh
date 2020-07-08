@@ -1,5 +1,5 @@
 ## call from root $bash _scripts/push.sh "Commit name"
-JEKYLL_ENV=production jekyll build
+JEKYLL_ENV=production bundle exec jekyll build
 python3.7 -m http.server -d _site/ &
 python3.7 _scripts/add_images.py
 cp -rn _site/static/previews/* static/previews/
