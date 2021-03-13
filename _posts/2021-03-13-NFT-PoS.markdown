@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blockchain art, electricity, and the many projects where that's no longer an issue"
-permalink: blog/lowres-highres/
+permalink: blog/nft-electricity/
 tags: blockchain art ethereum nft pos pow electricity waste tezos audius tokens
 
 ---
