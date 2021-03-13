@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Blockchain art, electricity, and the many projects where that's no longer an issue"
+permalink: blog/lowres-highres/
+tags: blockchain art ethereum nft pos pow electricity waste tezos audius tokens
+
+---
+
+You've heard about [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token). You've heard about Bitcoin using up [as much electricity as Argentina](https://www.bbc.com/news/technology-56012952). You might've seen some comparisons claiming a particular NFT cost [who knows how much electricity](http://cryptoart.wtf/). You're worried. Someone might've even mentioned "Proof of Stake" as a solution but then someone else might have called it "vaporwave", leaving you worried still. Let's address that.
+
+
+I will not go into detail about what a NFT is but you can think of it as something akin to a digital deed to an asset, most often an artwork. As far as the artist is concerned, whoever has the NFT can prove they are own the work in question. Others might be able to access the work, but just as I can access the first edition of a comic book online, only those who actually own it can realistically sell it to someone else.
+
+NFTs live on the blockchain and many are concerned with the electricity usage of Bitcoin and some of the other big projects. This is because Bitcoin uses [Proof of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work), which you can think of as solving computationally expensive puzzles to compete who processes a given transaction and gets the associated fees. Ethereum, the currently biggest smart chain, where many NFTs live does indeed also use PoW, and while they dont consume as much electricity as Bitcoin, it has the same problem. 
+
+Ethereum has been moving to [Proof of Stake (PoS)](https://en.wikipedia.org/wiki/Proof_of_stake), the currently favoured solution to the electricity problem for a while. PoS decides who process a transaction using random chance proportional to the amount of tokens a user has staked, instead of via puzzles and thus uses a fraction of the energy. It does indeed solve the problem at hand. However, Ethereum has been taking its sweet time, though due to recent developments it might get there within a year. As Ethereum doesn't have PoS yet, and Ethereum is the biggest player some claim that PoS is still 'vaporwave' and not worth talking about until it's functional.
+
+That's the rub though - PoS is functional, just not on Ethereum! There are many PoS projects already minting NFTs without wasting electricity, and those projects are gaining more and more market share rapidly. 
+
+[Audius](https://audius.co/), for example, a sort of blockchain Spotify-alternative that's shaping out to be more profitable for artists, is fully PoS and operational. Some of my favourite artists have already started putting music there.
+
+[Tezos](https://tezos.com/) (Mark Cuban's pick) is a PoS chain with multiple active NFT projects, and even the biggest marketplace [OpenSea](https://opensea.io/) is integrating them. Similar for Flow, which has the popular [Nba TopShot](https://www.nbatopshot.com/) project.
+
+[Polygon](https://matic.network/), a 'level 2' chain for Ethereum, has also quickly gained more NFT projects, such as the popular [Aavegotchi](https://www.nbatopshot.com/).
+
+The list goes on and is increasing extremely rapidly. People telling you that PoS is not relevant yet are incorrect, it's already relevant while PoW is becoming less and less relevant in the word of NFTs very quickly (though will still have relevance until ETH 2.0). If you do like supporting artists via NFTs (which you might or might not) without worrying about electricity waste, then there are plenty of options today. Propping those up and separating them from PoW options is your best bet for opposing the growing electricity use of PoW blockchains.
