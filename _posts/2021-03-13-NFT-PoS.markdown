@@ -21,6 +21,6 @@ That's the rub though - PoS is functional, just not on Ethereum! There are many 
 
 [Tezos](https://tezos.com/) (Mark Cuban's pick) is a PoS chain with multiple active NFT projects, and even the biggest marketplace [OpenSea](https://opensea.io/) is integrating them. Similar for Flow, which has the popular [Nba TopShot](https://www.nbatopshot.com/) project.
 
-[Polygon](https://matic.network/), a 'layer 2' PoS chain for Ethereum, has also quickly gained more NFT projects, such as the popular [Aavegotchi](https://www.nbatopshot.com/).
+[Polygon](https://matic.network/), a 'layer 2' PoS chain for Ethereum, has also quickly gained more NFT projects, such as the popular [Aavegotchi](https://aavegotchi.com/).
 
 The list goes on and is increasing extremely rapidly. People telling you that PoS is not relevant yet are incorrect, it's already relevant while PoW is becoming less and less so in the word of NFTs very quickly (though will still have relevance until ETH 2.0). If you do like supporting artists via NFTs (which you might or might not) without worrying about electricity waste, then there are plenty of options today. Propping those up and separating them from PoW options is one of your best bets for opposing the growing electricity use of PoW blockchains.
