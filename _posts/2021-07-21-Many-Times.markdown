@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "As many times as it takes"
+title:  "As Many Times As It Takes"
 fiction: true
 permalink: fiction/as-many-times/
 tags: fiction time-travel short story sci-fi
