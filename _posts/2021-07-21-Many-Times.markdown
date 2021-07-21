@@ -96,7 +96,7 @@ I decide to open with a joke by leaning on one of my less likely theories. Light
 
 “Salutations, John. It is clear you are a time traveler,” I say, smirking. It is important to look like you are in control even when you are not.
 
-“I am and you seem to be as smart or even smarter than you seem If you’ve already figured it out and accepted it. I assume then you already have a good idea of what we might be doing here,” he shoots back.
+“I am, and you seem to be as smart or even smarter than you seem If you’ve already figured it out and accepted it. I assume then you already have a good idea of what we might be doing here,” he shoots back.
 
 I most certainly did not and despite my competing urges to either drop my jaw or laugh, I stop to think. My first thought was on his accent. It was slightly off which was a small point in favour of him being a time traveler. As they say - the parallel is a different country. If he had brought it up, I would think even less of it as he is certainly capable of preparing that much but he did not. On the other side, it was now clear he had subtly tried to lead me towards that conclusion. ‘Today’ was emphasized in his first email. He indirectly talked about the future. He acted like he was both unknown and powerful. Regardless, I fall back on old habits and say the obvious - “Proving it.”
 
