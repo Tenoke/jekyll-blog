@@ -94,7 +94,7 @@ The other theories which I have to consider at this point are much less likely a
 
 I decide to open with a joke by leaning on one of my less likely theories. Lighten things up from the start, hopefully take control of the conversation.
 
-“Hello, John. It is clear you are a time traveler.” I say, smirking. It is important to look like you are in control even when you are not.
+“Salutations, John. It is clear you are a time traveler,” I say, smirking. It is important to look like you are in control even when you are not.
 
 “I am and you seem to be as smart or even smarter than you seem If you’ve already figured it out and accepted it. I assume then you already have a good idea of what we might be doing here,” he shoots back.
 
@@ -107,13 +107,13 @@ I listened to his explanation, asked my questions and told the presumed time-tra
 
 It checks out as far as I can tell. It’s extremely unlikely but there are not many better explanations and I am not one to reject the unlikely if it fits. It’s not like I will stop looking for alternative explanations. I approach him.
 
-He is smiling. His outfit is reminiscent of a security guard’s today. “Here’s a copy of your watch, that pretty logo from your lobby and Whales’ ‘Man versus God’. Lucky that you are fond of such a tiny painting. I can’t bring all that much with me.” he says.
+He is smiling. His outfit is reminiscent of a security guard’s today. “Here’s a copy of your watch, that pretty logo from your lobby and Whales’ ‘Man versus God’. Lucky that you are fond of such a tiny painting. I can’t bring all that much with me,” he says.
 
 I take my time verifying them, while noting the implication that he can only bring a little with him at a time. That’s fine and to be expected.
 
 “Would my lab find anything unusual about those duplicates?” I ask idly to confirm my working model of his time travel. They should be completely normal matter. Really, I should be amazed about the implications of unlimited duplicates with minimal limitations but I am still preoccupied with being amazed with Time Travel in general.
 
-“Not unless you analyze them with an IBM 5100” he replies but quickly adds  “Sorry, a joke from another time. The reference means nothing now.”
+“Not unless you analyze them with an IBM 5100,” he replies but quickly adds  “Sorry, a joke from another time. The reference means nothing now.”
 
 It’s dangerous to make assumptions on a throwaway comment but I file this away. Something to investigate further. “And you can duplicate anything as long as it is small?”
 
@@ -126,27 +126,27 @@ I wonder if he is bluffing. This should put me at ease as it implies that he can
 
 I kept thinking how ripe for abuse the duplication abilities of the machine were - take something valuable, send it to the past, rinse and repeat and you have many copies of it. Apparently, you can’t travel to points within a year or so of each other but you can still work around it if you have a longer time frame.Cloning powerful chips or parts can come in handy but in the end it seems more likely to be a ‘step two’ in reaching what John calls ‘Utopia’. First, we need society to be mostly in order for enough years and then we can think about duplicating whatever we want to move to a post-scarcity scenario.
 
-“I think you are approaching this all wrong. There is a better way” I tell John directly while projecting that I mean it.
+“I think you are approaching this all wrong. There is a better way,” I tell John directly while projecting that I mean it.
 
 It is absolutely incredible that Time Machines were invented and everything didn’t dissolve into utter chaos immediately. Having the only person who has access to one be someone attempting to prevent the worst outcomes is a godsend. It’s still dangerous of course - any one man can and will err. Everything riding on their judgement and luck. I can only imagine how bad it must have been for those smart enough to build it to take such a risk. It is horrifying in a lot of ways but nowhere near as bad as the alternatives. If anything it’s surprising how fortunate we are.
 
-“You already have a solution? I am skeptical.” John says but I could see the hints of hope and excitement on his square face.
+“You already have a solution? I am skeptical,” John says but I could see the hints of hope and excitement on his square face.
 
 “Yes or at least a much better approach. You have a blindspot.” The skepticism shows now and too much hinges on the next part. He’s not going to like it but I continue nonetheless “Of course, I have a few conditions first.” I tell him
 
-“Go on” he replies.
+“Go on,” he replies.
 
-“I don’t get completely erased.” I say. “ We leave the timeline before 1976 stable.” 
+“I don’t get completely erased,” I say. “We leave the timeline before 1976 stable.” 
 
-“It is hard for me to relate anymore. I have accepted that my life is forfeit aside from this but I can understand how it must be different for you. I will warn you though - even the tiniest chance of a success is worth uncountably more than our lives are. I will have to think about it.” he says with a look betraying sorrow.
+“It is hard for me to relate anymore. I have accepted that my life is forfeit aside from this but I can understand how it must be different for you. I will warn you though - even the tiniest chance of a success is worth uncountably more than our lives are. I will have to think about it,” he says with a look betraying sorrow.
 
-“Why? This is not just self-preservation on my part.” - to a large extent it was - “You already told me the current branches hold promise. You’ve apparently seen multiple versions of myself committed to improving things. You told me I can be the ‘chosen one’, which admittedly almost made me walk away. This is not a boast but I am clearly an asset to the world. You think it might be selfish? I am willing to accept that my current self will stop existing, a sacrifice you yourself have never taken.” I reply. The last part might seem unfair but it frames the conversation in a manner I can use.
+“Why? This is not just self-preservation on my part.” - to a large extent it was - “You already told me the current branches hold promise. You’ve apparently seen multiple versions of myself committed to improving things. You told me I can be the ‘chosen one’, which admittedly almost made me walk away. This is not a boast but I am clearly an asset to the world. You think it might be selfish? I am willing to accept that my current self will stop existing, a sacrifice you yourself have never taken,” I reply. The last part might seem unfair but it frames the conversation in a manner I can use.
 
 He regarded me with a dark look before saying “To put it bluntly, I am not banking everything on this despite how much time I’ve invested. If it doesn’t work I need to keep my options open. Promises are not something I break either - it was an explicit part of both my selection and training in the hopes that if there are other time travelers they’d be trained similarly and the chance of us working together would be higher. So I won’t make a promise I might not keep and I don’t want to limit my options without a good reason. I still want to hear you out so I implore you to put yourself in my shoes and think how little of a sacrifice one’s existence is.”
 
 To put myself in his shoes? I idly wonder if that saying is from his timeline. This is a very favourable response despite him not agreeing yet, and if he means what he says about promises - which makes sense on the face of it. 
 
-I decide to reveal more “I understand but you’ve gotten a few things wrong, my ally. First, my solution will leave no room for other trips. It will be final. Second, you profess selflessness but you are the blindspot. You think you need to be the one making trips which is not the case” I tell him.
+I decide to reveal more “I understand but you’ve gotten a few things wrong, my ally. First, my solution will leave no room for other trips. It will be final. Second, you profess selflessness but you are the blindspot. You think you need to be the one making trips which is not the case,” I tell him.
 
 He stands up and looks like he might be considering abandoning this. I try not to think of the ever present threat of having this conversation and his interaction with me erased altogether. Despite a twinge of guilt, which I’ve long ago learned to suppress, I continue “No, you are still not getting it. Nobody has to. You are wasting enormous amounts of your machine’s limited capacity to lug yourself around. Even if you weren’t, you can do what? A few thousand trips in your lifetime? At best? We can do a lot better.”
 
@@ -166,9 +166,9 @@ Of course, versions of me and him would need to evaluate the timeline we live in
 
 It has only been six months and the setup is complete. Everything is in place. The machine is modified. I did most of the work after a point but never without John’s supervision. It was only natural.
 
-He is staring at our setup, rehearsing. “I will travel to June 1st 1989, a promising starting point. I will get out of the machine, ensure that I’ve set myself up properly and on July 20th I will initiate the process. This should be the last time I see the machine. I will not know whether this is the final timeline or a fleeting one, and will start contacting your 13 year old self using the scripts you wrote. By the time you are 16 I will have revealed everything and we will set up the first check in the High New England lab, which is largely funded by your aunt, Fernanda Brosnan ” he says.
+He is staring at our setup, rehearsing. “I will travel to June 1st 1989, a promising starting point. I will get out of the machine, ensure that I’ve set myself up properly and on July 20th I will initiate the process. This should be the last time I see the machine. I will not know whether this is the final timeline or a fleeting one, and will start contacting your 13 year old self using the scripts you wrote. By the time you are 16 I will have revealed everything and we will set up the first check in the High New England lab, which is largely funded by your aunt, Fernanda Brosnan,” he says.
 
-“The plan is hundreds of pages long, it might be better to rehearse the contingencies than the base parts, my ally.” I tell him frankly. I should be more excited but all the work is done and I will in many ways stop existing. That simple fact is affecting me much more than I expected, not that I will say so out loud. I feel hollow. Better if that part of me is not something he remembers and carries to Utopia.
+“The plan is hundreds of pages long, it might be better to rehearse the contingencies than the base parts, my ally,” I tell him frankly. I should be more excited but all the work is done and I will in many ways stop existing. That simple fact is affecting me much more than I expected, not that I will say so out loud. I feel hollow. Better if that part of me is not something he remembers and carries to Utopia.
 
 He asks me some more inconsequential questions and I do my best to answer them again. His future selves will still be a continuation of his current self so it’s exceedingly important to keep him grounded. My alternate selves will branch from how I was at 13. It should worry me that they won’t be as capable as me but I know from John that I consistently succeed across timelines and can only do better with guidance. No, what I am afraid of isn’t if they’ll do well. I worry if they’ll really be me, the me of right now rather than someone too different to really count.
 
