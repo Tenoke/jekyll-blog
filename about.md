@@ -5,7 +5,6 @@ permalink: /about/
 ## <center>Svilen Todorov</center>
 #### <center>Data Scientist and Machine Learning Engineer</center>
 
-#### 	<center>Currently working at <a href="https://aristander.ai/">Aristander.ai</a></center>
 
 <center>Berlin, Germany.</center>
 
@@ -13,6 +12,8 @@ permalink: /about/
 <br>
 
 Mostly working on model building with PyTorch, GPyTorch, TensorFlow(.js) and related technologies.
+
+Project Lead and Founder at [Waypoint](https://wpnt.org/)
 
 Prior experience includes Web and Backend Development, Systems, DevOps, IoT, etc.
 
