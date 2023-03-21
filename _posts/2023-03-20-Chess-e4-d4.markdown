@@ -24,7 +24,7 @@ Further, I removed anyone that wasn't present in both 2022 and 2023, and anyone 
 
 That leaves us with a good amount of players, as we are comparing the same players at both times and we should expect to detect an effect if there is one.
 
-It's important to note, that some in the 'play longer games' camp recommend going for games even longer than rapid but if longer games lead to more improvement I'd expect to see a difference in rapid vs blitz already.
+
 
 
 #### Analysis
@@ -40,6 +40,11 @@ Looking at the blitz data, the results do replicate, however, the improvements a
 <div style="text-align: center;"><img class="img-fluid" src='/static/chess/e4_d4_blitz.png'></div>
 
 Given how hard it is to compare rapid and blitz ratings, I have less to say about the relative improvement in the two time controls but the average improvement in <1800 rapid is ~80 points and only 5-8 points for blitz, which is a rather large difference. If I cut off the data to only <1500 the blitz improvement jumps to 60-68 points which is still lower, and even limiting it to below 1300 leads to lower improvements in blitz (78 points for e4 and 66 for d4) than for <1800 rapid (and that number only grows if I also limit rapid to a lower rating). It is admittedly not conclusive as the two distributions are different, and I might explore the question further by comparing blitz players' rapid improvements and vice versa but what I am seeing here certainly suggests that your improvement might be slower with blitz.
+
+#### Limitations
+The biggest limitation is that we are simply comparing the improvement of d4 and e4 players a year later but can't know if the improvement is due to their choice of opening or because the groups of e4 and d4 players are different themselves - our study is simply correlattional.
+
+It's also important to note, that some in the 'play longer games' camp recommend going for games even longer than rapid but if longer games lead to more improvement I'd expect to see a difference in rapid vs blitz already.
 
 #### Conclusion
 
