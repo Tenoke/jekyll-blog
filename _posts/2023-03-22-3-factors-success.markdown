@@ -14,13 +14,13 @@ We often hear about the qualities and attributes that successful people possess 
 Luck is a significant factor that affects our lives, whether we realize it or not. You can be plenty hardworking but get dealt a bad hand or incapable of achieving much but lucky to not have to. Even how smart, or conscientious you are is ultimately determined by a lottery but having a model where we just declare everything to be luck (even if true) isn't exactly useful 
 
 
-### 1st Factor: General Intelligence - The Power of a Sharp Mind
+### 1st Factor: General Intelligence - Your Raw Intellectual Power
 
 General intelligence, often correlated with but not quite IQ, is a significant factor in achieving success. IQ itself correlates with nearly anything that matters and while it's not the only determinant of success, intelligence undoubtedly plays a critical role in problem-solving, decision-making, making connections, learning new skills and more. A higher IQ can give individuals a competitive edge in their careers and personal lives.
 
 Many tasks can indeed be achieved as long as you are over a certain baseline of intelligence (sometimes low, sometimes higher) but at minimum higher intelligence allows you to achieve some subtasks faster and arrive at breakthroughs sooner. It is also important to note that as long as you are over said baseline (which differs for different tasks), you are not necessarily limited by, say, being a bit slower. Hell, if we consider a simplified case of just speed then someone who works 50% faster than you but for only an hour a day will still achieve less overall than you if you are working 2 hours. This brings us to: 
 
-### 2nd Factor: Conscientiousness - The Persistence to Succeed
+### 2nd Factor: Conscientiousness - Doing the work
 
 Conscientiousness, or the ability to work hard and put in the necessary hours, is absolutely key. I've seen plenty of smart people (or at least with high IQ scores) achieve little because they don't put in the time to do so. In fact, I consider this factor the one I am 'worst' at and am always impressed by people who consistently put in the work day after day.
 
