@@ -13,10 +13,7 @@ permalink: /about/
 
 Mostly working on model building with PyTorch, GPyTorch, TensorFlow(.js) and related technologies.
 
-Project Lead and Founder at [Waypoint](https://wpnt.org/)
-
 Prior experience includes Web and Backend Development, Systems, DevOps, IoT, etc.
-
 
 Feel free to contact me about anything, especially cutting-edge ML.
 

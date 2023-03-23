@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Three Factors Framework for Goal Achievement"
+title:  "Simple Three Factors Framework for Goal Achievement"
 permalink: blog/three-factors-framework/
 tags: goal achievment lesswrong lw rationality intellect iq conscientiousness
 
