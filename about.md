@@ -11,15 +11,13 @@ permalink: /about/
 <br>
 <br>
 
-Mostly working on model building with PyTorch, GPyTorch, TensorFlow(.js) and related technologies.
-
-Prior experience includes Web and Backend Development, Systems, DevOps, IoT, etc.
 
 Feel free to contact me about anything, especially cutting-edge ML.
 
 
 <br>
 
-Github: [Tenoke](https://github.com/Tenoke/)
+Twitter: [Tenoke](https://x.com/Tenoke_)
+HN: [Tenoke](https://news.ycombinator.com/user?id=Tenoke)
 
 Email: sviltodorov[at]gmail.com
