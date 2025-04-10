@@ -2,6 +2,7 @@
 layout: post
 title:  "My day in 2035"
 permalink: blog/my-day-2035/
+fiction: true
 tags: futurism prediction timeline 2035 fiction forecast AI governance
 
 ---
